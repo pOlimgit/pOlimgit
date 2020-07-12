@@ -1,6 +1,6 @@
 ![alt text](https://github.com/pOlimgit/pOlimgit/blob/master/github%20self%20cover.jpg?raw=true)
 
-### Hi there 👋
+### Trying to be proficient every day 👋
 
 <!--
 **pOlimgit/pOlimgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
