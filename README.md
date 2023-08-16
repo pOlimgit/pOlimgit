@@ -1,5 +1,3 @@
-![alt text](https://github.com/pOlimgit/pOlimgit/blob/master/github%20self%20cover.jpg?raw=true)
-
 ### Trying to be proficient every day 👋
 
 <!--
